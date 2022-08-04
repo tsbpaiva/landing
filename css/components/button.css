@@ -1,0 +1,14 @@
+.btn-cta {
+  background-color: #1EDD88;
+  display: inline-block;
+  border-radius: 50px;
+  color: white;
+  padding: 16px 36px;
+}
+
+.btn-secondary {
+  padding: 8px 16px;
+  border-radius: 50px;
+  color: #1EDD88;
+  border: 1px solid #1EDD88;
+}
